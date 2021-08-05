@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/53144521/128415101-3a4e43bc-7bef-4e39-bea0-30a38dff8f53.png)
 
 ##### Student Profile
+![image](https://user-images.githubusercontent.com/53144521/128415376-1842ecca-60e2-495a-a477-251877aa2d97.png)
+
+
