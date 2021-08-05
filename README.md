@@ -1,11 +1,24 @@
 # Academic-Project
- Languages Used:
-             1. HTML
-             2. CSS
-             3. PHP
-             4. Hack(HHVM)
+## Languages Used:
+
+ <ol>
+<li>HTML</li>
+<li>CSS</li>
+<li>PHP</li>
+<li>HACK</li>
+</ol>
+
+## Tools Used:
+ <ul>
+
+<li>MySQL</li>
+<li>Visual Studio Code</li>
+
+</ul>
+
  # Snapshots
-  ### Landing Page
+
+ ### Landing pages
  ![image](https://user-images.githubusercontent.com/53144521/128414865-88dd736b-ee6c-4417-a5e5-1fa975e84a4b.png)
 
  
